@@ -1,0 +1,9 @@
+# 수정한 파일 올리기
+- git add (파일이름)
+- git add .
+
+# 커밋하기
+- git commit -m "[쓰고 싶은 말]"
+
+# 푸쉬하기
+- git push origin main
