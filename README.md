@@ -20,3 +20,7 @@ We provide links to the paper and its description, and links to the code if avai
 ## IEEE
 
 ## Yet...
+**DPnet: Collaborative Multi-Dynamic Pattern Modeling for Human Motion Prediction**
+*Jin Tang, Jin Zhang, Rui Dang, Baoxuan Gu, and Jianqin Yin*
+IEEE 25 January 2023 [Paper](https://ieeexplore.ieee.org/document/10025861) [Description] ()
+*Key word: Collaborative modeling, multi-graph structure, multi-dynamic pattern, human motion prediction*
