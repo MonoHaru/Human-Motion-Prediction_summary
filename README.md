@@ -1,6 +1,7 @@
 # Human-Motion-Prediction_summary
 The repo for studying and sharing human motion prediction models. \
 We provide links to the paper and its description, and links to the code if available.
+This repo made by MonoHaru (김태경, Tae-kyung Kim)
 
 ## Contents
 - [CVPR](#CVPR)
