@@ -4,7 +4,7 @@ We provide links to the paper and its description, and links to the code if avai
 You should know that description is written in Korean. \
 This repo made by MonoHaru. (김태경, Tae-kyung Kim)
 
-Thank for inviting my repo 🥰
+Thank for visiting my repo 🥰
 
 ## Contents
 - [CVPR](#CVPR)
