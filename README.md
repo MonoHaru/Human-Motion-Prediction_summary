@@ -19,7 +19,7 @@ Thank for visiting my repo 🥰
 *Tim Lebailly, Sena Kiciroglu, Mathieu Salzmann, Pascal Fua, and Wei Wang* \
 ACCV 2020 
 [[Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Lebailly_Motion_Prediction_Using_Temporal_Inception_Module_ACCV_2020_paper.pdf)] 
-[[Description](https://honorable-noodle-1d0.notion.site/TIM-GCN-12008f682c5a8007b1e9d2aef90ed68a)] \
+[[Description](https://honorable-noodle-1d0.notion.site/TIM-GCN-12008f682c5a8007b1e9d2aef90ed68a)]
 [[Github](https://github.com/tileb1/motion-prediction-tim)] \ 
 *Key word: Temporal inception module, graph convolutional network, human motion prediction*
 
