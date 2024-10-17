@@ -42,7 +42,7 @@ IEEE 25 January 2023
 *Key word: Collaborative modeling, multi-graph structure, multi-dynamic pattern, human motion prediction*
 
 **PGBIG: Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction** \
-*Tiezheng Ma, Yongwei Nie, Chengjing Long, Qing Zhang, and Guiqing Li*
+*Tiezheng Ma, Yongwei Nie, Chengjing Long, Qing Zhang, and Guiqing Li* \
 CVPR 2022
 [[Paper](https://arxiv.org/abs/2203.16051)] 
 [[Description]()]
@@ -50,7 +50,7 @@ CVPR 2022
 *Key word:*
 
 **MGCN: Learning Multiscale Correlations for Human Motion Prediction** \
-*Honghong Zhou, Caili Guo, Hao Zhang, and Yangjun Wang*
+*Honghong Zhou, Caili Guo, Hao Zhang, and Yangjun Wang* \
 IEEE 12 January 2021
 [[Paper](https://arxiv.org/abs/2103.10674)] 
 [[Description]()]
@@ -58,7 +58,7 @@ IEEE 12 January 2021
 *Key word:*
 
 **DMGNN: Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction**
-*Maosen Li, Siheng Chen, Yangheng Zhao, Ya Zhang, Yanfeng Wang, and Qi Tian*
+*Maosen Li, Siheng Chen, Yangheng Zhao, Ya Zhang, Yanfeng Wang, and Qi Tian* \
 CVPR 2020
 [[Paper](https://arxiv.org/abs/2003.08802)] 
 [[Description]()]
@@ -66,7 +66,7 @@ CVPR 2020
 *Key word:*
 
 **MSR-GCN: Multi-Scale Residaul Graph Convolution Networks for Human Motion Prediction**
-*Lingwei Dang, Yongwei Nie, Chengjing Long, Qing Zhang, and Guiqing Li*
+*Lingwei Dang, Yongwei Nie, Chengjing Long, Qing Zhang, and Guiqing Li* \
 ICCV 2021
 [[Paper](https://arxiv.org/abs/2108.07152)] 
 [[Description]()]
