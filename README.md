@@ -32,15 +32,14 @@ ACCV 2020
 ## ICLR
 
 ## IEEE
-
-## Yet...
 **DPnet: Collaborative Multi-Dynamic Pattern Modeling for Human Motion Prediction** \
 *Jin Tang, Jin Zhang, Rui Dang, Baoxuan Gu, and Jianqin Yin* \
 IEEE 25 January 2023
 [[Paper](https://ieeexplore.ieee.org/document/10025861)]
-[[Description](https://honorable-noodle-1d0.notion.site/3D-Human-Motion-Prediction-A-Survey-f79c7652330441ed9281f8d3e72a598e?pvs=4)] \
+[[Description](https://honorable-noodle-1d0.notion.site/DPnet-8a58b7865f7545a08533e5327673acb9?pvs=4)] \
 *Key word: Collaborative modeling, multi-graph structure, multi-dynamic pattern, human motion prediction*
 
+## Yet...
 **PGBIG: Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction** \
 *Tiezheng Ma, Yongwei Nie, Chengjing Long, Qing Zhang, and Guiqing Li* \
 CVPR 2022
